@@ -18,7 +18,7 @@ The Tic-Tac-Toe Game is a graphical implementation of the classic two-player gam
 - **tic_tac_toe.py:** The main Python file containing the game logic and the GUI setup.
 
 ## How to Play
-1. Clone this repository to your local machine (git clone <THIS_REPOSITORY_LINK>).
+1. Clone this repository to your local machine (git clone [<THIS_REPOSITORY_LINK>](https://github.com/GabrielB03/tic-tac-toe-game.git)).
 2. Run the `tic_tac_toe.py` script using Python 3.
 3. The game window will open, allowing you to select between single-player and two-player modes.
 4. Click on the grid cells to make your move.
