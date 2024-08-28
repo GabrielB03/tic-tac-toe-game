@@ -35,6 +35,12 @@ The Tic-Tac-Toe Game is a graphical implementation of the classic two-player gam
 
 Menu:
 
+![tictactoe_game_menu](https://github.com/user-attachments/assets/3261090f-4736-4bbe-a882-aa1b39165161)
 
-Game:
-![tic-tac-toe-game](https://github.com/user-attachments/assets/5ba3cdaa-0c52-4a0c-977c-ec42c3deea9b)
+Singleplayer Mode:
+
+![tictactoe_game_singleplayer](https://github.com/user-attachments/assets/7d4f3d45-7294-4446-93fe-aa38b31c55a2)
+
+Multiplayer Mode:
+
+![tictactoe_game_multiplayer](https://github.com/user-attachments/assets/07fd5e47-79ce-491e-b0bf-2edb2c4aa9ed)
