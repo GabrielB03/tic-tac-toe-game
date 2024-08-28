@@ -24,4 +24,4 @@ The Tic-Tac-Toe Game is a graphical implementation of the classic two-player gam
 4. Click on the grid cells to make your move.
 
 ## Project Test
-(![tic-tac-toe-game](https://github.com/user-attachments/assets/5ba3cdaa-0c52-4a0c-977c-ec42c3deea9b)
+![tic-tac-toe-game](https://github.com/user-attachments/assets/5ba3cdaa-0c52-4a0c-977c-ec42c3deea9b)
