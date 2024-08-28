@@ -1,4 +1,3 @@
-```markdown
 ## Prerequisites
 
 1. **Python 3.12 or higher**: Ensure Python is installed on your machine.
@@ -12,4 +11,3 @@
      ```bash
      pip install poetry
      ```
-```
