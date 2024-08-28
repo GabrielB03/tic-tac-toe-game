@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "tic-tac-toe"
+version = "0.1.0"
+description = "A Tic-Tae-Toe game with configurable AI and themes."
+authors = ["GabrielB03 <bielbomfim03@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+Addons-Tkinter = "tkinter"
+tkinter-customwindow = "^1.0.0"
+tkinter-dndr = "^1.2.0"
+tkinter-expansion = "^1.2.0"
+tkinter-form = "^1.2.0"
+themed-tkinter = "^1.2.0"
+tkinter-kit = "^1.2.0"
+flake8-tkinter = "^1.2.0"
+Everything-Tkinter = "^1.2.0"
+docal-tkinter = "^1.2.0"
+tkinter-math = "^1.2.0"
+tk-tools = "^1.2.0"
+tk = "^1.2.0"
+tk64 = "^1.2.0"
+pep-tk = "^1.2.0"
+poetry = "install"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
