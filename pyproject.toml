@@ -23,7 +23,7 @@ tk-tools = "^1.2.0"
 tk = "^1.2.0"
 tk64 = "^1.2.0"
 pep-tk = "^1.2.0"
-poetry = "install"
+poetry = "^1.2.0"
 
 
 [build-system]
