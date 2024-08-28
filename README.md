@@ -30,7 +30,7 @@ The Tic-Tac-Toe Game is a graphical implementation of the classic two-player gam
 4. Run the project
    ```
    python tic_tac_toe.py
-
+##
 ## Project Test
 
 Menu:
